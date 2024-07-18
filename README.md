@@ -31,6 +31,8 @@ The project uses two challenging datasets:
 ### Matching-Aware Zero-Centered Gradient Penalty (MA-GP)
 - Ensures the generator produces realistic and text-consistent images without extra networks.
 
+## Framework 
+![DF-GAN Architecture](/framework.png)
 ## Implementation
 
 ### Training Details
