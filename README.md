@@ -51,7 +51,7 @@ The DF-GAN model outperforms state-of-the-art text-to-image synthesis models, ac
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/df-gan-text-to-image.git
+git clone https://github.com/Jagadeesh-N/DF-GAN-Text-to-Image-Synthesis.git
 cd df-gan-text-to-image
 ```
 
