@@ -4,17 +4,6 @@
 
 This project focuses on generating high-quality images from text descriptions using Deep Fusion Generative Adversarial Networks (DF-GAN). The model synthesizes realistic and text-image semantically consistent images through an innovative approach, improving upon existing methods by simplifying the architecture and enhancing text-image fusion.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
-- [Implementation](#implementation)
-- [Results](#results)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 The DF-GAN model aims to generate realistic images from textual descriptions. Unlike traditional models that use a stacked architecture, DF-GAN employs a novel one-stage backbone, deep text-image fusion block, and matching-aware zero-centered gradient penalty to achieve high-quality image synthesis.
