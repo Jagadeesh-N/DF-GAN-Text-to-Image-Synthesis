@@ -45,7 +45,8 @@ The project uses two challenging datasets:
 
 ## Results
 
-The DF-GAN model outperforms state-of-the-art text-to-image synthesis models, achieving better performance in terms of IS and FID scores on the CUB and COCO datasets.
+The DF-GAN model outperforms state-of-the-art text-to-image synthesis models like roblems.
+StackGAN-V1, achieving better performance in terms of IS and FID scores on the CUB and COCO datasets.
 
 ## Usage
 
@@ -61,13 +62,8 @@ pip install -r requirements.txt
 ```
 
 ### Run the Training Script
-```bash
-python train.py --dataset CUB --epochs 600 --batch_size 64
 ```
-
-### Generate Images
-```bash
-python generate.py --input "A yellow bird with black wings and a short beak."
+The model is in the ipynb file,execute the ipynb file using jupyter notebook or upload the file in google collaborator 
 ```
 
 ### Acknowledgments
