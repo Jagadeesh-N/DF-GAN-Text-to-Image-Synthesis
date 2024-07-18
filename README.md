@@ -11,8 +11,8 @@ The DF-GAN model aims to generate realistic images from textual descriptions. Un
 ## Dataset
 
 The project uses two challenging datasets:
-- **CUB Bird Dataset**: Contains 11,788 images of 200 bird species, with 10 textual descriptions per image. The dataset is split into 8,855 training images and 2,933 test images.
-- **COCO Dataset**: Contains 80,000 training images and 40,000 test images with more complex scenes.
+- **CUB Bird Dataset**: Contains 11,788 images of 200 bird species, with 10 textual descriptions per image. The dataset is split into 8,855 training images and 2,933 test images. Download [CUB_200_211](https://www.kaggle.com/datasets/wenewone/cub2002011)
+- **COCO Dataset**: Contains 80,000 training images and 40,000 test images with more complex scenes. Download here [COCO Dataset](https://www.kaggle.com/datasets/sabahesaraki/2017-2017)
 
 ## Model Architecture
 
